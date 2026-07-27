@@ -14,6 +14,6 @@ pkgbase = devilbox-tray
 	depends = docker
 	optdepends = docker-compose: Compose v2 plugin (recommended)
 	source = devilbox-tray-1.0.0.tar.gz::https://github.com/thentik/devilbox-tray/archive/refs/tags/v1.0.0.tar.gz
-	sha256sums = SKIP
+	sha256sums = 628b540bdd563b57e13e8384089906ad944a516842d13ef101b173da8292332e
 
 pkgname = devilbox-tray

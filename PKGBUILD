@@ -10,7 +10,7 @@ depends=('python' 'pyside6' 'docker')
 optdepends=('docker-compose: Compose v2 plugin (recommended)')
 makedepends=('python-build' 'python-installer' 'python-hatchling' 'python-wheel')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/refs/tags/v$pkgver.tar.gz")
-sha256sums=('SKIP')
+sha256sums=('628b540bdd563b57e13e8384089906ad944a516842d13ef101b173da8292332e')
 
 build() {
   cd "$srcdir/$pkgname-$pkgver"
