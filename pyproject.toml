@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "devilbox-tray"
-version = "1.0.0"
+version = "1.0.1"
 description = "Tray app to control Devilbox (start/stop containers) from any SNI system tray."
 readme = "README.md"
 license = { text = "MIT" }

@@ -2,7 +2,8 @@
 Type=Application
 Name=Devilbox Tray
 Comment=Control Devilbox from the system tray
-Exec=devilbox-tray
+Exec=/usr/bin/devilbox-tray
+TryExec=/usr/bin/devilbox-tray
 Icon=devilbox-tray
 Terminal=false
 Categories=Development;
